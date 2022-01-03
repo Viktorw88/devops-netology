@@ -1,4 +1,5 @@
 # devops-netology
+First commit
 
 /terraform - Файлы, которые будут проигнорированы в будущем, благодаря добавленному .gitignore:
 **/.terraform/*
