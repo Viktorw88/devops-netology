@@ -1,4 +1,5 @@
 # devops-netology
+NEWLINE - branch fix
 First commit
 
 /terraform - Файлы, которые будут проигнорированы в будущем, благодаря добавленному .gitignore:
